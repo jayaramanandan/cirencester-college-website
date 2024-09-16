@@ -1,0 +1,15 @@
+/workspaces/cirencester-college-website/server/bin/Debug/net8.0/server
+/workspaces/cirencester-college-website/server/bin/Debug/net8.0/server.deps.json
+/workspaces/cirencester-college-website/server/bin/Debug/net8.0/server.runtimeconfig.json
+/workspaces/cirencester-college-website/server/bin/Debug/net8.0/server.dll
+/workspaces/cirencester-college-website/server/bin/Debug/net8.0/server.pdb
+/workspaces/cirencester-college-website/server/obj/Debug/net8.0/server.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cirencester-college-website/server/obj/Debug/net8.0/server.AssemblyInfoInputs.cache
+/workspaces/cirencester-college-website/server/obj/Debug/net8.0/server.AssemblyInfo.cs
+/workspaces/cirencester-college-website/server/obj/Debug/net8.0/server.csproj.CoreCompileInputs.cache
+/workspaces/cirencester-college-website/server/obj/Debug/net8.0/server.sourcelink.json
+/workspaces/cirencester-college-website/server/obj/Debug/net8.0/server.dll
+/workspaces/cirencester-college-website/server/obj/Debug/net8.0/refint/server.dll
+/workspaces/cirencester-college-website/server/obj/Debug/net8.0/server.pdb
+/workspaces/cirencester-college-website/server/obj/Debug/net8.0/server.genruntimeconfig.cache
+/workspaces/cirencester-college-website/server/obj/Debug/net8.0/ref/server.dll
