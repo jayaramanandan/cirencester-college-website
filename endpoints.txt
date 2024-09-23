@@ -1,0 +1,10 @@
+GET:
+
+POST:
+    - /api/login
+        + input = {idNumber: "430564", password: "jeff bezos", type: "[can be student or teacher]"}
+        + output = {status: "exists", userToken: "token-with-some-weird-hash-stuff-stored-on-a-database"}
+    
+    - /api/signup
+        + input = {username: "gussy", password: "col1", type: "[can be student or teacher]"}
+        + output = {userToken: "token-with-some-weird-hash-stuff-stored-on-a-database"}

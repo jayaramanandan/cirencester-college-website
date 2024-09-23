@@ -1,11 +1,16 @@
-import type { Component } from 'solid-js';
-import styles from './App.module.css';
+import type { Component } from "solid-js";
+import { Router, Route } from "@solidjs/router";
+
+import styles from "./App.module.css";
+import Home from "./routes/Home";
+import Login from "./routes/Login";
 
 const App: Component = () => {
   return (
-    <button class="text-3xl text-white font-bold bg-slate-900 hover:bg-slate-800 hover:rounded-md width-16 cursor-pointer">
-      Hello world!
-    </button>
+    <Router>
+      <Route path="/" component={Home} />
+      <Route path="/login" component={Login} />
+    </Router>
   );
 };
 
