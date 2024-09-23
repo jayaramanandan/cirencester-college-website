@@ -1,12 +1,11 @@
-import { RouteSectionProps } from "@solidjs/router";
-import type { Component } from "solid-js";
+import type { Component } from 'solid-js';
+import styles from './App.module.css';
 
-const App: Component<RouteSectionProps> = (props) => {
+const App: Component = () => {
   return (
-    <>
-      <div>hello world</div>
-      {props.children}
-    </>
+    <button class="text-3xl text-white font-bold bg-slate-900 hover:bg-slate-800 hover:rounded-md width-16 cursor-pointer">
+      Hello world!
+    </button>
   );
 };
 
