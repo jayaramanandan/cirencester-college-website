@@ -1,6 +1,6 @@
 import { Component, JSXElement } from "solid-js";
 
-import { Card } from "../../ui/card";
+import { Card } from "../../../ui/card";
 
 const NavbarContainer: Component<{ children: JSXElement }> = (props) => {
   return (
